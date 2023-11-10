@@ -1,0 +1,17 @@
+{
+  "name": "ts-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node out/exercise.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts": "^0.0.0",
+    "typescript": "^5.2.2"
+  }
+}
